@@ -1,7 +1,7 @@
 {
   "name": "flogo-mongodb",
   "type": "flogo:activity",
-  "ref": "github.com/skothari-tibco/mongo-activity",
+  "ref": "github.com/skothari-tibco/mongodb-activity",
   "version": "0.0.1",
   "title": "MongoDB",
   "description": "Manage MongoDB documents in a specified collection",
